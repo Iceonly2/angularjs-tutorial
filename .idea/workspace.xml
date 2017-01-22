@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="24f713d2-c301-457c-9215-18357ddf930f" name="Default" comment="" />
+    <list default="true" id="24f713d2-c301-457c-9215-18357ddf930f" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,7 +16,38 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8">
+              <caret line="13" column="8" lean-forward="false" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/base.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="63" column="60" lean-forward="true" selection-start-line="63" selection-start-column="39" selection-end-line="63" selection-end-column="60" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -26,22 +59,27 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="G:/xampp/htdocs/dotsource/script.js" />
-        <option value="G:/xampp/htdocs/dotsource/style/sass/base.sccs" />
-        <option value="G:/xampp/htdocs/dotsource/style/style.css" />
-        <option value="G:/xampp/htdocs/dotsource/style/sass/base.scss" />
-        <option value="G:/xampp/htdocs/dotsource/style/index.html" />
-        <option value="G:/xampp/htdocs/dotsource/css/js/base.js" />
-        <option value="G:/xampp/htdocs/dotsource/index.php" />
-        <option value="G:/xampp/htdocs/dotsource/js/script.js" />
-        <option value="G:/xampp/htdocs/dotsource/flug.php" />
-        <option value="G:/xampp/htdocs/dotsource/fluege.json" />
-        <option value="G:/xampp/htdocs/dotsource/cars.json" />
-        <option value="G:/xampp/htdocs/dotsource/js/base.js" />
-        <option value="G:/xampp/htdocs/dotsource/index.html" />
+        <option value="$PROJECT_DIR$/../dotsource/script.js" />
+        <option value="$PROJECT_DIR$/../dotsource/style/sass/base.sccs" />
+        <option value="$PROJECT_DIR$/../dotsource/style/style.css" />
+        <option value="$PROJECT_DIR$/../dotsource/style/sass/base.scss" />
+        <option value="$PROJECT_DIR$/../dotsource/style/index.html" />
+        <option value="$PROJECT_DIR$/../dotsource/css/js/base.js" />
+        <option value="$PROJECT_DIR$/../dotsource/index.php" />
+        <option value="$PROJECT_DIR$/../dotsource/js/script.js" />
+        <option value="$PROJECT_DIR$/../dotsource/flug.php" />
+        <option value="$PROJECT_DIR$/../dotsource/fluege.json" />
+        <option value="$PROJECT_DIR$/../dotsource/cars.json" />
+        <option value="$PROJECT_DIR$/../dotsource/js/base.js" />
+        <option value="$PROJECT_DIR$/../dotsource/index.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -73,27 +111,25 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="dotsource" />
+              <option name="myItemId" value="angularjs-tutorial" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="angularjs-tutorial-01" />
+              <option name="myItemId" value="angularjs-tutorial" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="dotsource" />
+              <option name="myItemId" value="angularjs-tutorial" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="angularjs-tutorial-01" />
+              <option name="myItemId" value="angularjs-tutorial" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -103,11 +139,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="dotsource" />
+              <option name="myItemId" value="angularjs-tutorial" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="angularjs-tutorial-01" />
+              <option name="myItemId" value="angularjs-tutorial" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -117,13 +153,16 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.eslint.eslintPackage" value="" />
-    <property name="last_opened_file_path" value="G:/xampp/htdocs/browser-detector" />
+    <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/GitHub/PortableGit_d7effa1a4a322478cd29c826b52a0c118ad3db11/cmd/git.exe" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -135,7 +174,7 @@
   </component>
   <component name="RunManager" selected="PHPUnit.angularjs-tutorial-01">
     <configuration default="false" name="angularjs-tutorial-01" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
-      <TestRunner directory="G:/xampp/htdocs/angularjs-tutorial-01" />
+      <TestRunner directory="$PROJECT_DIR$/../angularjs-tutorial-01" />
       <method />
     </configuration>
     <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
@@ -222,33 +261,34 @@
       <workItem from="1484952502047" duration="1360000" />
       <workItem from="1485020203278" duration="8854000" />
       <workItem from="1485107833679" duration="6567000" />
+      <workItem from="1485121118563" duration="967000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43950000" />
+    <option name="totallyTimeSpent" value="44917000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -281,268 +321,62 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://G:/xampp/htdocs/angularjs-tutorial-01/index.php">
+    <entry file="file://$PROJECT_DIR$/../angularjs-tutorial-01/index.php" />
+    <entry file="file://$PROJECT_DIR$/../angularjs-tutorial-01/js/base.js" />
+    <entry file="file://$PROJECT_DIR$/../angularjs-tutorial-01/js/script.js" />
+    <entry file="file://$PROJECT_DIR$/../angularjs-tutorial-01/flug.php" />
+    <entry file="file://$PROJECT_DIR$/../angularjs-tutorial-01/index.html" />
+    <entry file="file://$PROJECT_DIR$/../angularjs-tutorial-01/index.php" />
+    <entry file="file://$PROJECT_DIR$/../angularjs-tutorial-01/js/base.js" />
+    <entry file="file://$PROJECT_DIR$/../angularjs-tutorial-01/js/script.js" />
+    <entry file="file://$PROJECT_DIR$/../angularjs-tutorial-01/flug.php" />
+    <entry file="file://$PROJECT_DIR$/../angularjs-tutorial-01/index.html" />
+    <entry file="file://$PROJECT_DIR$/../angularjs-tutorial-01/index.php" />
+    <entry file="file://$PROJECT_DIR$/../angularjs-tutorial-01/js/base.js" />
+    <entry file="file://$PROJECT_DIR$/../angularjs-tutorial-01/js/script.js" />
+    <entry file="file://$PROJECT_DIR$/../angularjs-tutorial-01/flug.php" />
+    <entry file="file://$PROJECT_DIR$/../angularjs-tutorial-01/index.php" />
+    <entry file="file://$PROJECT_DIR$/../angularjs-tutorial-01/js/script.js" />
+    <entry file="file://$PROJECT_DIR$/../angularjs-tutorial-01/flug.php" />
+    <entry file="file://$PROJECT_DIR$/../angularjs-tutorial-01/index.php" />
+    <entry file="file://$PROJECT_DIR$/../angularjs-tutorial-01/js/script.js" />
+    <entry file="file://$PROJECT_DIR$/../angularjs-tutorial-01/index.php" />
+    <entry file="file://$PROJECT_DIR$/../angularjs-tutorial-01/index.php" />
+    <entry file="file://$PROJECT_DIR$/../angularjs-tutorial-01/index.php" />
+    <entry file="file://$PROJECT_DIR$/../dotsource/style/sass/main.sass" />
+    <entry file="file://$PROJECT_DIR$/../dotsource/style/sass/style.sass" />
+    <entry file="file://$PROJECT_DIR$/../dotsource/style/sass/base.sccs" />
+    <entry file="file://$PROJECT_DIR$/../dotsource/style/style.css" />
+    <entry file="file://$PROJECT_DIR$/../dotsource/style/style/sass/base.scss" />
+    <entry file="file://$PROJECT_DIR$/../dotsource/style/index.html" />
+    <entry file="file://$PROJECT_DIR$/../dotsource/tsconfig.json" />
+    <entry file="file://$PROJECT_DIR$/../angularjs-tutorial-01/package.json" />
+    <entry file="file://$PROJECT_DIR$/../angularjs-tutorial-01/cars.json" />
+    <entry file="file://$PROJECT_DIR$/../angularjs-tutorial-01/index.html" />
+    <entry file="file://$PROJECT_DIR$/../angularjs-tutorial-01/js/script.js" />
+    <entry file="file://$PROJECT_DIR$/../angularjs-tutorial-01/js/base.js" />
+    <entry file="file://$PROJECT_DIR$/../angularjs-tutorial-01/index.php" />
+    <entry file="file://$PROJECT_DIR$/../angularjs-tutorial-01/flug.php" />
+    <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1156">
-          <caret line="68" column="74" lean-forward="false" selection-start-line="68" selection-start-column="67" selection-end-line="68" selection-end-column="74" />
+        <state relative-caret-position="510">
+          <caret line="63" column="60" lean-forward="true" selection-start-line="63" selection-start-column="39" selection-end-line="63" selection-end-column="60" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://G:/xampp/htdocs/angularjs-tutorial-01/js/base.js">
+    <entry file="file://$PROJECT_DIR$/js/base.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="5" lean-forward="false" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#44#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://G:/xampp/htdocs/angularjs-tutorial-01/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc;n#Konto#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://G:/xampp/htdocs/angularjs-tutorial-01/flug.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="40" lean-forward="false" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="40" />
+        <state relative-caret-position="476">
+          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://G:/xampp/htdocs/angularjs-tutorial-01/index.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://G:/xampp/htdocs/angularjs-tutorial-01/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="58" lean-forward="false" selection-start-line="24" selection-start-column="58" selection-end-line="24" selection-end-column="58" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://G:/xampp/htdocs/angularjs-tutorial-01/js/base.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="5" lean-forward="false" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#44#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://G:/xampp/htdocs/angularjs-tutorial-01/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="952">
-          <caret line="58" column="30" lean-forward="true" selection-start-line="58" selection-start-column="30" selection-end-line="58" selection-end-column="30" />
-          <folding>
-            <element signature="n#!!doc;n#Konto#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://G:/xampp/htdocs/angularjs-tutorial-01/flug.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="52" lean-forward="false" selection-start-line="17" selection-start-column="52" selection-end-line="17" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://G:/xampp/htdocs/angularjs-tutorial-01/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="72" lean-forward="false" selection-start-line="25" selection-start-column="72" selection-end-line="25" selection-end-column="72" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://G:/xampp/htdocs/angularjs-tutorial-01/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="58" lean-forward="true" selection-start-line="24" selection-start-column="58" selection-end-line="24" selection-end-column="58" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://G:/xampp/htdocs/angularjs-tutorial-01/js/base.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#44#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://G:/xampp/htdocs/angularjs-tutorial-01/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="952">
-          <caret line="58" column="30" lean-forward="true" selection-start-line="58" selection-start-column="30" selection-end-line="58" selection-end-column="30" />
-          <folding>
-            <element signature="n#!!doc;n#Konto#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://G:/xampp/htdocs/angularjs-tutorial-01/flug.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="52" lean-forward="false" selection-start-line="17" selection-start-column="52" selection-end-line="17" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://G:/xampp/htdocs/angularjs-tutorial-01/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="48" lean-forward="false" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://G:/xampp/htdocs/angularjs-tutorial-01/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1207">
-          <caret line="71" column="33" lean-forward="false" selection-start-line="71" selection-start-column="23" selection-end-line="71" selection-end-column="33" />
-          <folding>
-            <element signature="n#!!doc;n#Konto#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://G:/xampp/htdocs/angularjs-tutorial-01/flug.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://G:/xampp/htdocs/angularjs-tutorial-01/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://G:/xampp/htdocs/angularjs-tutorial-01/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="986">
-          <caret line="60" column="1" lean-forward="true" selection-start-line="60" selection-start-column="1" selection-end-line="60" selection-end-column="1" />
-          <folding>
-            <element signature="n#!!doc;n#Konto#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://G:/xampp/htdocs/angularjs-tutorial-01/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://G:/xampp/htdocs/angularjs-tutorial-01/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://G:/xampp/htdocs/angularjs-tutorial-01/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://G:/xampp/htdocs/dotsource/style/sass/main.sass" />
-    <entry file="file://G:/xampp/htdocs/dotsource/style/sass/style.sass" />
-    <entry file="file://G:/xampp/htdocs/dotsource/style/sass/base.sccs" />
-    <entry file="file://G:/xampp/htdocs/dotsource/style/style.css" />
-    <entry file="file://G:/xampp/htdocs/dotsource/style/style/sass/base.scss" />
-    <entry file="file://G:/xampp/htdocs/dotsource/style/index.html" />
-    <entry file="file://G:/xampp/htdocs/dotsource/tsconfig.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://G:/xampp/htdocs/angularjs-tutorial-01/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://G:/xampp/htdocs/angularjs-tutorial-01/cars.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="59" lean-forward="false" selection-start-line="4" selection-start-column="59" selection-end-line="4" selection-end-column="59" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://G:/xampp/htdocs/angularjs-tutorial-01/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="833">
-          <caret line="49" column="59" lean-forward="false" selection-start-line="49" selection-start-column="59" selection-end-line="49" selection-end-column="59" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://G:/xampp/htdocs/angularjs-tutorial-01/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="99" column="11" lean-forward="true" selection-start-line="99" selection-start-column="11" selection-end-line="99" selection-end-column="11" />
-          <folding>
-            <element signature="n#!!doc;n#Konto#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://G:/xampp/htdocs/angularjs-tutorial-01/js/base.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="18" column="31" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
-          <folding>
-            <element signature="e#0#44#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://G:/xampp/htdocs/angularjs-tutorial-01/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="850">
-          <caret line="71" column="77" lean-forward="false" selection-start-line="71" selection-start-column="68" selection-end-line="71" selection-end-column="77" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://G:/xampp/htdocs/angularjs-tutorial-01/flug.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="19" column="21" lean-forward="false" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+        <state relative-caret-position="8">
+          <caret line="13" column="8" lean-forward="false" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
           <folding />
         </state>
       </provider>
