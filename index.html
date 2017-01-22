@@ -40,19 +40,18 @@
 
             </div>
             <article class="col-xs-12 col-lg-6">
-
-                <div ng-repeat="f in dm.cars | filter : {Marke : filterClientCars, Typ : filterClientTyp}">
-
-                    <div class="row-fluid">
-
-                        <div class="col-lg-4">{{f.Marke}}</div>
-                        <div class="col-lg-4">{{f.Typ}}</div>
-                        <div class="col-lg-4">{{f.Preis}} €</div>
-
-                    </div>
-
-                </div>
-
+                <table class="table" ng-show="dm.cars.length > 0">
+                    <tr>
+                        <th class="col-lg-4">Marke</th>
+                        <th class="col-lg-4">Typ</th>
+                        <th class="col-lg-4">Preis</th>
+                    </tr>
+                    <tr ng-repeat="f in dm.cars | filter : {Marke : filterClientCars, Typ : filterClientTyp}">
+                                <td>{{f.Marke}}</td>
+                                <td>{{f.Typ}}</td>
+                                <td>{{f.Preis}} €</td>
+                    </tr>
+                </table>
             </article>
         </section>
 
