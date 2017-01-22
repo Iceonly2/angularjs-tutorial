@@ -1,0 +1,10 @@
+@charset "UTF-8";
+html, body {
+  background-color: #cccccc;
+}
+
+/* Extra-kleine Geräte (Smartphones, weniger als 768px) */
+/* Kein Media-Query, weil dies der Standard in Bootstrap ist */
+/* Kleine Geräte (Tablets, 768px und breiter) */
+/* Mittlere Geräte (Desktop-PCs, 992px und breiter) */
+/* Große Geräte (Desktop-PCs, 1200px und breiter) */

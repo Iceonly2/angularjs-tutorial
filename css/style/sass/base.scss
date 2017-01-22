@@ -1,0 +1,25 @@
+@import 'forms';
+
+$bg-color : #cccccc;
+$screen-sm-min : 768;
+$screen-md-min : 992;
+$screen-lg-min : 1200;
+
+html,body{
+
+  background-color: $bg-color;
+
+
+
+}
+
+/* Extra-kleine Geräte (Smartphones, weniger als 768px) */
+/* Kein Media-Query, weil dies der Standard in Bootstrap ist */
+/* Kleine Geräte (Tablets, 768px und breiter) */
+@media (min-width: $screen-sm-min) { }
+
+/* Mittlere Geräte (Desktop-PCs, 992px und breiter) */
+@media (min-width: $screen-md-min) { }
+
+/* Große Geräte (Desktop-PCs, 1200px und breiter) */
+@media (min-width: $screen-lg-min) { }
