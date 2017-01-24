@@ -1,10 +1,10 @@
 <html>
 
 <head>
-    <link rel="stylesheet" href="css/bootstrap.css"></link>
-    <link rel="stylesheet" href="css/styles.css" media="all"></link>
-    <script type="application/javascript" src="js/angular.min.js"></script>
-    <script type="application/javascript" src="js/script.js"></script>
+    <link rel="stylesheet" href="client/src/assets/css/bootstrap.css"></link>
+    <link rel="stylesheet" href="client/src/assets/css/styles.css" media="all"></link>
+    <script type="application/javascript" src="client/src/assets/lib/angular.min.js"></script>
+    <script type="application/javascript" src="client/script.js"></script>
 </head>
 
 <body>

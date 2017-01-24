@@ -1,0 +1,12 @@
+
+<section class="col-md-12" ng-show="cardetail.length > 0">
+    <h3>Details</h3>
+    <div ng-repeat="f in cardetail">
+
+        <label>Hersteller:</label> <span>{{f.Marke}}</span>
+        <label>Typ:</label> <span>{{f.Typ}}</span>
+        <label>Baujahr:</label> <span>{{f.Baujahr}}</span>
+        <label>Preis:</label> <span>{{f.Preis}}</span>€
+
+    </div>
+</section>

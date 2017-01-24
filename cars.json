@@ -1,6 +1,0 @@
-[
-  {"ID": "1", "Marke" : "Honda", "Typ" : "Bremen","Preis" : 15000},
-  {"ID": "2", "Marke" : "Renault","Typ" : "Dacia","Preis" : 25000},
-  {"ID": "3", "Marke" : "Opel", "Typ" : "Astra","Preis" : 35000},
-  {"ID": "4", "Marke" : "Opel", "Typ" : "Dacia","Preis" : 55000}
-]

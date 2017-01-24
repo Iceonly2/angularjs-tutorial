@@ -1,0 +1,6 @@
+[
+  {"ID": "1", "Marke" : "Honda", "Typ" : "Civic 1.8","Preis" : 15000,"Baujahr" : "2007"},
+  {"ID": "2", "Marke" : "Renault","Typ" : "Dacia","Preis" : 25000,"Baujahr" : "1997"},
+  {"ID": "3", "Marke" : "Opel", "Typ" : "Astra","Preis" : 35000,"Baujahr" : "2009"},
+  {"ID": "4", "Marke" : "Opel", "Typ" : "Mokka","Preis" : 55000,"Baujahr" : "2011"}
+]

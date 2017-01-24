@@ -1,9 +1,9 @@
 <?php
 
 $data = file_get_contents("php://input");
-$flugnummer = "";
-$zielort = "";
-$abflugort = "";
+$car_id= "";
+$car_name = "";
+$car_type= "";
 
 
 if(isset($_REQUEST["flugNummer"]))

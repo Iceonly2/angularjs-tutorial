@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="myApp">
+<head>
+    <meta charset="UTF-8">
+    <title>Angualarjs Tutorial</title>
+    <link rel="stylesheet" href="src/assets/css/bootstrap.css">
+    <link rel="stylesheet" href="src/assets/css/styles.css">
+
+</head>
+<body>
+    <div class="container" ng-controller="CarListCtrl">
+        <div class="row wrapper">
+            <section class="col-md-12">
+
+                <h2>{{vm.title}}</h2>
+
+
+                <div ng-show="vm.message">
+
+                    {{vm.message}}
+
+                </div>
+
+
+                <div class="form-group">
+                    <input type="button" value="suchen" ng-click="vm.LoadCars()" class="btn">
+                </div>
+                <div class="panel">
+
+                <div class="panel-body">
+
+                <div class="form-group">
+                    Filter Marke<input type="text" ng-model="filterClientCars" class="form-control">
+                </div>
+
+                <div class="form-group">
+                    Filter Typ<input type="text" ng-model="filterClientTyp" class="form-control">
+                </div>
+                </div>
+
+                </div>
+                <article class="col-md-12">
+                    <table class="table" ng-show="vm.cars.length > 0">
+                        <tr>
+                            <th class="col-lg-4">Marke</th>
+                            <th class="col-lg-4">Typ</th>
+                            <th class="col-lg-4">Preis</th>
+                        </tr>
+                        <tr ng-repeat="f in vm.cars | filter : {Marke : filterClientCars, Typ : filterClientTyp}">
+                                    <td>{{f.Marke}}</td>
+                                    <td>{{f.Typ}}</td>
+                                    <td>{{f.Preis}} €</td>
+                                    <td><a ui-sref="carDetails({pNummer:f.ID})" ng-click="details.LoadRequest(f.ID)">Kaufen</a></td>
+                        </tr>
+                    </table>
+                </article>
+            </section>
+
+            <div ui-view>
+
+            </div>
+
+        </div>
+    </div>
+    <script type="application/javascript" src="src/assets/lib/angular.min.js"></script>
+    <script type="application/javascript" src="src/assets/lib/angular-ui-router.js"></script>
+    <script type="application/javascript" src="src/app/app.js" ></script>
+    <script type="application/javascript" src="src/app/car-list/car-list.module.js" ></script>
+    <script type="application/javascript" src="src/app/car-list/car-list.controller.js" ></script>
+</body>
+</html>
